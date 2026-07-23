@@ -1,0 +1,76 @@
+<mxfile host="app.diagrams.net">
+  <diagram name="Page-1" id="UBrr7DSl0RDu0KI6z0HH">
+    <mxGraphModel dx="1032" dy="601" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="DPYOrHzRimrOc2FpGAOI-2" parent="1" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" value="Smart Traffic Management System" vertex="1">
+          <mxGeometry height="110" width="250" x="260" y="190" as="geometry" />
+        </mxCell>
+        <mxCell id="DPYOrHzRimrOc2FpGAOI-4" parent="1" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0.6;dx=40;direction=south;notch=0;fillColor=#dae8fc;strokeColor=#6c8ebf;" value="" vertex="1">
+          <mxGeometry height="60" width="20" x="380" y="300" as="geometry" />
+        </mxCell>
+        <mxCell id="DPYOrHzRimrOc2FpGAOI-5" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" value="Efficiently handles data related to vehicle movement and signals" vertex="1">
+          <mxGeometry height="30" width="370" x="210" y="370" as="geometry" />
+        </mxCell>
+        <mxCell id="DPYOrHzRimrOc2FpGAOI-6" parent="1" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.annotation_2;align=left;labelPosition=right;pointerEvents=1;rotation=90;" value="" vertex="1">
+          <mxGeometry height="656.25" width="35" x="388.13" y="94.38" as="geometry" />
+        </mxCell>
+        <mxCell id="DPYOrHzRimrOc2FpGAOI-7" parent="1" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.annotation_1;align=left;pointerEvents=1;rotation=95;" value="" vertex="1">
+          <mxGeometry height="100" x="392.82" y="374.9" as="geometry" />
+        </mxCell>
+        <mxCell id="phG4vdyPN4eEH5Fbnui--2" parent="1" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.annotation_1;align=left;pointerEvents=1;rotation=90;" value="" vertex="1">
+          <mxGeometry height="195.15" width="16.87" x="367.28" y="335.86" as="geometry" />
+        </mxCell>
+        <mxCell id="phG4vdyPN4eEH5Fbnui--3" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" value="&lt;span style=&quot;color: rgb(0, 0, 255);&quot;&gt;Data&lt;/span&gt;:collection of raw facts related to traffic." vertex="1">
+          <mxGeometry height="60" width="120" x="30" y="440" as="geometry" />
+        </mxCell>
+        <mxCell id="phG4vdyPN4eEH5Fbnui--4" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#1ba1e2;strokeColor=#006EAF;fontColor=#ffffff;" value="Data structure: organised way to store and manage data" vertex="1">
+          <mxGeometry height="60" width="140" x="210" y="440" as="geometry" />
+        </mxCell>
+        <mxCell id="phG4vdyPN4eEH5Fbnui--5" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" value="Operations:action performed on data" vertex="1">
+          <mxGeometry height="60" width="120" x="392.82" y="440" as="geometry" />
+        </mxCell>
+        <mxCell id="phG4vdyPN4eEH5Fbnui--7" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d0cee2;strokeColor=#56517e;" value="Processing:&lt;div&gt;converting data into useful information&lt;/div&gt;" vertex="1">
+          <mxGeometry height="60" width="120" x="690" y="440" as="geometry" />
+        </mxCell>
+        <mxCell id="phG4vdyPN4eEH5Fbnui--10" parent="1" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.annotation_1;align=left;pointerEvents=1;rotation=90;" value="" vertex="1">
+          <mxGeometry height="133.44" width="15.52" x="534.4" y="366.72" as="geometry" />
+        </mxCell>
+        <mxCell id="phG4vdyPN4eEH5Fbnui--12" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" value="Organisation:Arrange data symmetrically" vertex="1">
+          <mxGeometry height="60" width="145.6" x="534.4" y="440" as="geometry" />
+        </mxCell>
+        <mxCell id="phG4vdyPN4eEH5Fbnui--17" parent="1" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0.6;dx=40;direction=south;notch=0;fillColor=#008a00;fontColor=#ffffff;strokeColor=#005700;" value="" vertex="1">
+          <mxGeometry height="59.84" width="45" x="60" y="500.16" as="geometry" />
+        </mxCell>
+        <mxCell id="phG4vdyPN4eEH5Fbnui--19" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;gradientColor=#7ea6e0;" value="Examples:&lt;div&gt;1.Vehicle count&lt;/div&gt;&lt;div&gt;2.speed&lt;/div&gt;&lt;div&gt;3.signal timing&lt;/div&gt;&lt;div&gt;4.Road condition&lt;/div&gt;&lt;div&gt;5.accident records&lt;/div&gt;" vertex="1">
+          <mxGeometry height="120" width="110" x="30" y="560" as="geometry" />
+        </mxCell>
+        <mxCell id="phG4vdyPN4eEH5Fbnui--20" parent="1" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0.6;dx=40;direction=south;notch=0;fillColor=#008a00;fontColor=#ffffff;strokeColor=#005700;" value="" vertex="1">
+          <mxGeometry height="59.84" width="50" x="255" y="500.16" as="geometry" />
+        </mxCell>
+        <mxCell id="phG4vdyPN4eEH5Fbnui--21" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;gradientColor=#97d077;strokeColor=#82b366;" value="Types:&lt;div&gt;1.Structures:combination of different data types&lt;/div&gt;&lt;div&gt;2.Arrays:store vehicle counts over time.&lt;/div&gt;&lt;div&gt;3.Linked list:dynamic list of vehicles.&lt;/div&gt;&lt;div&gt;4.Trees:road network hierachy.&lt;/div&gt;&lt;div&gt;5.Graphs:intersections and road.&lt;/div&gt;" vertex="1">
+          <mxGeometry height="180" width="140" x="210" y="560" as="geometry" />
+        </mxCell>
+        <mxCell id="phG4vdyPN4eEH5Fbnui--22" parent="1" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0.6;dx=40;direction=south;notch=0;fillColor=#008a00;fontColor=#ffffff;strokeColor=#005700;" value="" vertex="1">
+          <mxGeometry height="60" width="33.13" x="425" y="500.15999999999997" as="geometry" />
+        </mxCell>
+        <mxCell id="phG4vdyPN4eEH5Fbnui--23" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e6d0de;gradientColor=#d5739d;strokeColor=#996185;" value="Examples:&lt;div&gt;1.insertion:add new vehicle data.&lt;/div&gt;&lt;div&gt;2.Deletion:remove outdated data.&lt;/div&gt;&lt;div&gt;3.Transversal:visit all nodes.&lt;/div&gt;&lt;div&gt;4.Searching:find shortest path.&lt;/div&gt;&lt;div&gt;5.Sorting:rank traffic congesting levels.&lt;/div&gt;" vertex="1">
+          <mxGeometry height="170" width="120" x="381.57" y="560" as="geometry" />
+        </mxCell>
+        <mxCell id="phG4vdyPN4eEH5Fbnui--24" parent="1" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0.63;dx=29.33;direction=south;notch=0;fillColor=#60a917;fontColor=#ffffff;strokeColor=#2D7600;" value="" vertex="1">
+          <mxGeometry height="60" width="40" x="580" y="500.16" as="geometry" />
+        </mxCell>
+        <mxCell id="phG4vdyPN4eEH5Fbnui--25" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;gradientColor=#ffd966;strokeColor=#d6b656;" value="How?:&lt;div&gt;1.store in arrays,lists,trees,graphs.&lt;/div&gt;&lt;div&gt;2.link related data.&lt;/div&gt;&lt;div&gt;3.maintain hierarchy.&lt;/div&gt;" vertex="1">
+          <mxGeometry height="150" width="126.4" x="543.6" y="560.16" as="geometry" />
+        </mxCell>
+        <mxCell id="phG4vdyPN4eEH5Fbnui--26" parent="1" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0.6;dx=40;direction=south;notch=0;fillColor=#60a917;fontColor=#ffffff;strokeColor=#2D7600;" value="" vertex="1">
+          <mxGeometry height="70" width="40" x="730" y="500" as="geometry" />
+        </mxCell>
+        <mxCell id="phG4vdyPN4eEH5Fbnui--27" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffcccc;strokeColor=#36393d;" value="1.analyze traffic flow.&lt;div&gt;2.detect congestion.&lt;/div&gt;&lt;div&gt;3.predict delays&lt;/div&gt;&lt;div&gt;4.optimize signal timing&lt;/div&gt;" vertex="1">
+          <mxGeometry height="140" width="120" x="690" y="570" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
